@@ -42,7 +42,7 @@
     position: relative;
     width: 700px;
     height: 80px;
-    margin-left: 20%;
+    margin-left: 15%;
     /* background-color: rgb(230, 226, 226); */
 }
 .nav2 ul{
@@ -61,7 +61,6 @@
 
 .nav2 ul span button{
     padding:10px;
-    border: 0px;
     font-size: medium;
     margin-top: 17px;
     border:1px solid white;
