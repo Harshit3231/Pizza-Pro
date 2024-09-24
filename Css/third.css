@@ -1,0 +1,8 @@
+.third_head{
+    margin-top: -84px;
+    width: 100%;
+    position: relative;
+    height: 180px;
+    background-color: rgb(86, 77, 86);
+    clip-path: polygon(0 100%, 100% 100%, 100% 75%, 74% 54%, 51% 73%, 22% 55%, 0 73%);
+}

@@ -26,7 +26,12 @@
     width: 130px;
     height: 130px;
     background-color: rgb(0, 0, 0);
+    cursor: pointer;
+   
 }
+
+
+
 .Second_Head .half_One .pizza_Img .order h1{
     color: aliceblue;
     justify-content: center;
@@ -60,4 +65,10 @@
 .Second_Head .half_Two h1{
     font-size: 80px;
     margin: 20px 0px 20px 2px;
+}
+.Second_Head .half_Two #sign{
+    font-family: "Style Script", cursive;
+    font-size: 60px;
+    font-weight: 400;
+    font-style: normal;
 }
