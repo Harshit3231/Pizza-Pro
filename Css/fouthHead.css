@@ -1,0 +1,169 @@
+.fourth-head{
+    width: 100%;
+    height: 55rem;
+    background-color: rgba(0, 204, 255, 0.84);
+    display: flex;
+}
+.fourth-head .left-f{
+    width: 50%;
+    height: 55rem;
+    background-color: rgb(17, 17, 17);
+}
+
+.fourth-head .left-f .img-part{
+    width: 40rem;
+    height: 40rem;
+    margin: 80px 0px 0px 50px;
+    /* background-color: rgb(0, 255, 76); */
+    display: inline-block;
+}
+
+
+.fourth-head .left-f  .img-ff{
+    width: 250px;
+    height: 40px;
+    margin: 50px 0px 0px 55px;
+    /* background-color: violet; */
+}
+.fourth-head .left-f  .img-ff span{
+   font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 20px;
+     color: aliceblue;
+}
+
+.fourth-head .left-f  .img-sf{
+
+    width: 500px;
+    height: 250px;
+    margin: 25px 0px 0px 50px;
+    /* background-color: yellow; */
+}
+
+.fourth-head .left-f  .img-sf h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-size: 4.5rem;
+    text-transform: uppercase;
+    color: aliceblue;
+}
+
+.fourth-head .left-f  .img-tf{
+
+    width: 500px;
+    height: 140px;
+    margin: 20px 0px 0px 50px;
+    /* background-color: rgb(0, 60, 255); */
+}
+
+.fourth-head .left-f  .img-tf span{
+    font-family: "Gowun Batang", serif;
+    font-style: normal;
+    letter-spacing: 2px;
+    font-size: 1.4rem;
+    color: aliceblue;
+}
+
+
+
+.fourth-head .right-f{
+    width: 50%;
+    height: 55rem;
+    background-color: rgb(255, 25, 0);
+}
+.fourth-head .right-f img{
+    width: 100%;
+    height: 55rem;
+}
+
+.fourth-head .left-f  .img-fbtn{
+    width: 230px;
+    height: 50px;
+    margin: 20px 0px 0px 55px;
+    background-color: violet;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* this is Button Api */
+
+
+
+
+.button-85 {
+  width: 230px;
+  height: 50px;
+  padding: 0.6em 2em;
+  border: none;
+  outline: none;
+  color: rgb(255, 255, 255);
+  background: #111;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  border-radius: 10px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-85:before {
+  content: "";
+  background: linear-gradient(
+    45deg,
+    #ff0000,
+    #ff7300,
+    #fffb00,
+    #48ff00,
+    #00ffd5,
+    #002bff,
+    #7a00ff,
+    #ff00c8,
+    #ff0000
+  );
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  background-size: 400%;
+  z-index: -1;
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  width: calc(100% + 8px);
+  height: calc(100% + 8px);
+  animation: glowing-button-85 20s linear infinite;
+  transition: opacity 0.3s ease-in-out;
+  border-radius: 10px;
+}
+
+@keyframes glowing-button-85 {
+  0% {
+    background-position: 0 0;
+  }
+  50% {
+    background-position: 400% 0;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}
+
+.button-85:after {
+  z-index: -1;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #222;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+}
