@@ -1,0 +1,36 @@
+.fifth-head{
+    width: 100%;
+    height: 800px;
+    background-color: rgba(198, 195, 195, 0.174);
+    display: inline-block;
+}
+.fifth-head .fifth-one{
+    width: 100%;
+    height: 150px;
+    /* background-color: rgb(55, 255, 0); */
+    display: inline-block;
+}
+.fifth-head .fifth-one .line1{
+    width: 150px;
+    height: 0.5px;
+    margin: 8rem 0px 0px 30rem;
+    background-color: rgb(5, 10, 3);
+}
+.fifth-head .fifth-one .line0{
+    width: 180px;
+    height: 60px;
+    margin: -0.8rem 0px 10px 40rem;
+    /* background-color: rgb(224, 234, 220); */
+}
+.fifth-head .fifth-one .line0 h1{
+    margin: 0px 0px 0px 0px;
+    font-style: normal;
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fifth-head .fifth-one .line2{
+    width: 150px;
+    height: 0.5px;
+    margin: -3.6rem 0px 0px 50.9rem;
+    background-color: rgb(5, 10, 3);
+}

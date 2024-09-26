@@ -1,0 +1,19 @@
+.Sixth-Head{
+    width: 100%;
+    height: 150px;
+    /* background-color: brown; */
+    display: inline-block;
+}
+.Sixth-Head .sixheading{
+    width: 500px;
+    height: 100px;
+    /* background-color: yellow; */
+    margin: 2% 0% 0% 31.5%;
+
+}
+.Sixth-Head .sixheading h1{
+    font-style: normal;
+    font-weight: bold 500;
+    font-size: 5rem;
+    font-family: "Poppins", sans-serif;;
+}
