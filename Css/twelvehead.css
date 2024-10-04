@@ -1,0 +1,352 @@
+.twelve-Head{
+    width: 100%;
+    height: 90vh;
+   background-color: white;
+    display: flex;
+}
+
+.twelve-Head .left{
+    width: 36%;
+    height: 80vh;
+    margin: 33px 30px 30px 170px;
+   background-color: black;
+   display: inline-block;
+}
+
+.twelve-Head .left .headone{
+margin: 30px 0px 0px 50px;    
+width: 450px;
+height: 110px;
+/* background-color: aliceblue; */
+}
+
+.twelve-Head .left .headone .paraone{
+       
+    width: 450px;
+    height: 50px;
+    /* background-color: rgb(45, 173, 23); */
+    }
+
+
+.twelve-Head .left .headone .paratwo{
+       margin-top: 5px;
+        width: 450px;
+        height: 50px;
+        /* background-color: rgb(45, 173, 23); */
+ }
+
+ 
+
+.twelve-Head .left .headone .paraone h1{
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+}
+
+.twelve-Head .left .headone .paratwo h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1rem;
+    color: white;
+}
+
+
+
+
+
+
+.twelve-Head .left .headtwo{
+    margin: 30px 0px 0px 50px;    
+    width: 450px;
+    height: 110px;
+    /* background-color: aliceblue; */
+    }
+    
+    .twelve-Head .left .headtwo .paraone{
+           
+        width: 450px;
+        height: 50px;
+        /* background-color: rgb(45, 173, 23); */
+        }
+    
+    
+    .twelve-Head .left .headtwo .paratwo{
+           margin-top: 5px;
+            width: 450px;
+            height: 50px;
+            /* background-color: rgb(45, 173, 23); */
+     }
+    
+     
+    
+    .twelve-Head .left .headtwo .paraone h1{
+        font-style: normal;
+        font-weight: bold;
+        color: white;
+    }
+    
+    .twelve-Head .left .headtwo .paratwo h1{
+        font-style: normal;
+        font-weight: bold;
+        font-size: 1rem;
+        color: white;
+    }
+    
+    
+
+
+
+
+.twelve-Head .left .headthree{
+    margin: 30px 0px 0px 50px;    
+    width: 450px;
+    height: 110px;
+    /* background-color: aliceblue; */
+    }
+    
+    .twelve-Head .left .headthree .paraone{
+           
+        width: 450px;
+        height: 50px;
+        /* background-color: rgb(45, 173, 23); */
+        }
+    
+    
+    .twelve-Head .left .headthree .paratwo{
+           margin-top: 5px;
+            width: 450px;
+            height: 50px;
+            /* background-color: rgb(45, 173, 23); */
+     }
+    
+     
+    
+    .twelve-Head .left .headthree .paraone h1{
+        font-style: normal;
+        font-weight: bold;
+        color: white;
+    }
+    
+    .twelve-Head .left .headthree .paratwo h1{
+        font-style: normal;
+        font-weight: bold;
+        font-size: 1rem;
+        color: white;
+    }
+
+
+
+
+.twelve-Head .left .headfour{
+    margin: 30px 0px 0px 50px;    
+    width: 450px;
+    height: 110px;
+    /* background-color: aliceblue; */
+    }
+    
+    .twelve-Head .left .headfour .paraone{
+           
+        width: 450px;
+        height: 50px;
+        /* background-color: rgb(45, 173, 23); */
+        }
+    
+    
+    .twelve-Head .left .headfour .paratwo{
+           margin-top: 5px;
+            width: 450px;
+            height: 50px;
+            /* background-color: rgb(45, 173, 23); */
+     }
+    
+     
+    
+    .twelve-Head .left .headfour .paraone h1{
+        font-style: normal;
+        font-weight: bold;
+        color: white;
+    }
+    
+    .twelve-Head .left .headfour .paratwo h1{
+        font-style: normal;
+        font-weight: bold;
+        font-size: 1rem;
+        color: white;
+    }
+
+
+
+
+
+
+
+
+/* this is right */
+
+
+.twelve-Head .right{
+    width: 36%;
+    height: 80vh;
+    margin: 33px 30px 30px 40px;
+   background-color: black;
+   display: inline-block;
+}
+
+.twelve-Head .right .headone{
+margin: 30px 0px 0px 50px;    
+width: 450px;
+height: 110px;
+/* background-color: aliceblue; */
+}
+
+.twelve-Head .right .headone .paraone{
+       
+    width: 450px;
+    height: 50px;
+    /* background-color: rgb(45, 173, 23); */
+    }
+
+
+.twelve-Head .right .headone .paratwo{
+       margin-top: 5px;
+        width: 450px;
+        height: 50px;
+        /* background-color: rgb(45, 173, 23); */
+ }
+
+ 
+
+.twelve-Head .right .headone .paraone h1{
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+}
+
+.twelve-Head .right .headone .paratwo h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1rem;
+    color: white;
+}
+
+
+
+
+
+.twelve-Head .right .headtwo{
+    margin: 30px 0px 0px 50px;    
+    width: 450px;
+    height: 110px;
+    /* background-color: aliceblue; */
+    }
+    
+    .twelve-Head .right .headtwo .paraone{
+           
+        width: 450px;
+        height: 50px;
+        /* background-color: rgb(45, 173, 23); */
+        }
+    
+    
+    .twelve-Head .right .headtwo .paratwo{
+           margin-top: 5px;
+            width: 450px;
+            height: 50px;
+            /* background-color: rgb(45, 173, 23); */
+     }
+    
+     
+    
+    .twelve-Head .right .headtwo .paraone h1{
+        font-style: normal;
+        font-weight: bold;
+        color: white;
+    }
+    
+    .twelve-Head .right .headtwo .paratwo h1{
+        font-style: normal;
+        font-weight: bold;
+        font-size: 1rem;
+        color: white;
+    }
+    
+
+
+    
+
+    .twelve-Head .right .headthree{
+        margin: 30px 0px 0px 50px;    
+        width: 450px;
+        height: 110px;
+        /* background-color: aliceblue; */
+        }
+        
+        .twelve-Head .right .headthree .paraone{
+               
+            width: 450px;
+            height: 50px;
+            /* background-color: rgb(45, 173, 23); */
+            }
+        
+        
+        .twelve-Head .right .headthree .paratwo{
+               margin-top: 5px;
+                width: 450px;
+                height: 50px;
+                /* background-color: rgb(45, 173, 23); */
+         }
+        
+         
+        
+        .twelve-Head .right .headthree .paraone h1{
+            font-style: normal;
+            font-weight: bold;
+            color: white;
+        }
+        
+        .twelve-Head .right .headthree .paratwo h1{
+            font-style: normal;
+            font-weight: bold;
+            font-size: 1rem;
+            color: white;
+        }
+
+
+
+
+        .twelve-Head .right .headfour{
+            margin: 30px 0px 0px 50px;    
+            width: 450px;
+            height: 110px;
+            /* background-color: aliceblue; */
+            }
+            
+            .twelve-Head .right .headfour .paraone{
+                   
+                width: 450px;
+                height: 50px;
+                /* background-color: rgb(45, 173, 23); */
+                }
+            
+            
+            .twelve-Head .right .headfour .paratwo{
+                   margin-top: 5px;
+                    width: 450px;
+                    height: 50px;
+                    /* background-color: rgb(45, 173, 23); */
+             }
+            
+             
+            
+            .twelve-Head .right .headfour .paraone h1{
+                font-style: normal;
+                font-weight: bold;
+                color: white;
+            }
+            
+            .twelve-Head .right .headfour .paratwo h1{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 1rem;
+                color: white;
+            }
