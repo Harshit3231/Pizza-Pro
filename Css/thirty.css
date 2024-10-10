@@ -1,6 +1,125 @@
+@keyframes CardAnimate{
+    0%   {margin-top: 50px;}
+  25%  {margin-top: 40px;}
+  30%  {margin-top: 30px;}
+  40%  {margin-top: 20px;}
+  40%  {margin-top: -15px;}
+  50%  {margin-top: 12px;}
+  65%  {margin-top: 8px;}
+  75%  {margin-top: 4px;}
+  100% {margin-top: 0px;}
+}
 .thirty-head{
-background-color: aquamarine;
+background-color: white;
 width: 100%;
-height: 150vh;
+height: 90vh;
 display: flex;
 }
+.thirty-head .veg{
+    width: 300px;
+    height: 300px;
+    margin-top: 150px;
+    margin-left: 80px;
+    /* background-color: blueviolet; */
+}
+
+.thirty-head .veg{
+    animation-name: CardAnimate;
+    animation-duration: 4s;
+    transition: 1s;
+    animation-timing-function: ease-out;
+    cursor: pointer;
+    animation-iteration-count: 3;
+}
+
+.thirty-head .heading{
+    width: 800px;
+    height: 600px;
+    /* background-color: white; */
+    margin-left: 10px;
+    margin-top: 50px;
+    
+}
+.thirty-head .heading .delicious{
+    width: 800px;
+    height: 200px;
+    /* background-color: tomato; */
+}
+.thirty-head .heading .delicious h1{
+    font-size: 9rem;
+    color: black;
+    font-style: normal
+}
+
+.thirty-head .heading .deliciousTwo{
+    width: 800px;
+    height: 200px;
+    /* background-color: tomato; */
+}
+.thirty-head .heading .deliciousTwo h1{
+    font-size: 8.3rem;
+    color: black;
+    font-style: normal
+}
+
+.thirty-head .heading .deliciousThree{
+    width: 800px;
+    height: 200px;
+    /* background-color: tomato; */
+}
+.thirty-head .heading .deliciousThree h1{
+    font-size: 10rem;
+    color: black;
+    font-style: normal
+}
+
+.thirty-head .vegTwo{
+    margin-top: 60vh;
+    margin-right: 10px;
+    width: 300px;
+    height: 200px;
+    /* background-color: teal; */
+}
+.thirty-head .vegTwo{
+    
+    animation-name: CardAnimate;
+    position: relative;
+    animation-duration: 4s;
+    transition: 1s;
+    animation-timing-function: ease-in;
+    cursor: pointer;
+    animation-iteration-count: 3;
+}
+
+
+.Fourteen-Head{
+    margin-bottom: -50px;
+    width: 100%;
+    height: 370px;
+    /* background-color: black; */
+    display: flex;
+}
+.Fourteen-Head img{
+    margin-top: -130px;
+    width: 60%;
+    height: 500px;
+    margin-left: 21%;  
+}
+
+.Fourteen-Head .orderNow{
+    width: 150px;
+    height: 150px;
+    margin-top: 65px;
+    margin-left: 72%;
+    background-color: yellow;
+    border-radius: 50%;
+     position: absolute;
+    cursor: pointer;
+    box-shadow: 5px 0px 10px 0px black;
+}
+.Fourteen-Head .orderNow h1{
+    font-style: normal;
+    font-weight: bold 300 black;
+    margin: 40px 0px 0px 20px;
+}
+
